@@ -45,7 +45,7 @@ Class days
 - [ leflerja ] 12. 2/13 - Rich Enbody speaks on security
 - [ ] 13. 2/18
 - [ ] 14. 2/20
-- [ ] 15. 2/25
+- [ jonest31 ] 15. 2/25 - Luiz Irber talks about continuous integration
 - [ ] 16. 2/27
 - [ ] 17. 3/11
 - [ ] 18. 3/13
